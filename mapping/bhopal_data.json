@@ -1,0 +1,2342 @@
+[
+    {
+        "Train_No": 19303,
+        "Train_Name": "INDB BHOPAL EXP",
+        "Priority": 3,
+        "From_Station": "INDB",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "05:10",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 19303,
+        "Train_Name": "INDB BHOPAL EXP",
+        "Priority": 3,
+        "From_Station": "BPL",
+        "To_Station": "UJN",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "06:25"
+    },
+    {
+        "Train_No": 22163,
+        "Train_Name": "MAHAMANA EXPRESS",
+        "Priority": 2,
+        "From_Station": "BPL",
+        "To_Station": "KURJ",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "06:30"
+    },
+    {
+        "Train_No": 22166,
+        "Train_Name": "SGRL BPL SF EXP",
+        "Priority": 2,
+        "From_Station": "SGRL",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "07:05",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 22166,
+        "Train_Name": "SGRL BPL SF EXP",
+        "Priority": 2,
+        "From_Station": "BPL",
+        "To_Station": "BINA",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "07:30"
+    },
+    {
+        "Train_No": 22146,
+        "Train_Name": "REWA BPL SF EXP",
+        "Priority": 2,
+        "From_Station": "REWA",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "08:10",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 12184,
+        "Train_Name": "MBDP BPL EXPRESS",
+        "Priority": 2,
+        "From_Station": "MBDP",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "08:30",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 12184,
+        "Train_Name": "MBDP BPL EXPRESS",
+        "Priority": 2,
+        "From_Station": "LJN",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "09:05",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 14813,
+        "Train_Name": "JU BPL EXPRESS",
+        "Priority": 3,
+        "From_Station": "JU",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "09:20",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 13026,
+        "Train_Name": "BPL HOWRAH EXP",
+        "Priority": 3,
+        "From_Station": "BPL",
+        "To_Station": "HWH",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "09:30"
+    },
+    {
+        "Train_No": 18235,
+        "Train_Name": "BILASPUR EX PAS",
+        "Priority": 5,
+        "From_Station": "BPL",
+        "To_Station": "BSP",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "10:15"
+    },
+    {
+        "Train_No": 11271,
+        "Train_Name": "VINDHYACHAL EXP",
+        "Priority": 3,
+        "From_Station": "ET",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "10:20",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 12853,
+        "Train_Name": "AMARKANTAK EXP",
+        "Priority": 2,
+        "From_Station": "DURG",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "10:30",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 22162,
+        "Train_Name": "RAJYA RANI EXP",
+        "Priority": 2,
+        "From_Station": "DMO",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "10:45",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 19323,
+        "Train_Name": "INTERCITY EXP",
+        "Priority": 3,
+        "From_Station": "DADN",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "10:55",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 19711,
+        "Train_Name": "JP BPL EXP",
+        "Priority": 3,
+        "From_Station": "JP",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "11:20",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 19340,
+        "Train_Name": "BHOPAL DAHOD EX",
+        "Priority": 5,
+        "From_Station": "BPL",
+        "To_Station": "DHD",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "12:35"
+    },
+    {
+        "Train_No": 11606,
+        "Train_Name": "BINA BPL EXP MEMU",
+        "Priority": 3,
+        "From_Station": "BINA",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "13:40",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 11605,
+        "Train_Name": "BPL BINA EXP MEMU",
+        "Priority": 3,
+        "From_Station": "BPL",
+        "To_Station": "BINA",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "14:20"
+    },
+    {
+        "Train_No": 12198,
+        "Train_Name": "BPL INTERCITY",
+        "Priority": 2,
+        "From_Station": "GWL",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "14:35",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 12197,
+        "Train_Name": "GWL INTERCITY EX",
+        "Priority": 2,
+        "From_Station": "BPL",
+        "To_Station": "GWL",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "15:15"
+    },
+    {
+        "Train_No": 19339,
+        "Train_Name": "DHD BPL EXP",
+        "Priority": 3,
+        "From_Station": "DHD",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "15:50",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 12854,
+        "Train_Name": "AMARKANTAK EXP",
+        "Priority": 2,
+        "From_Station": "BPL",
+        "To_Station": "DURG",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "16:00"
+    },
+    {
+        "Train_No": 19712,
+        "Train_Name": "BPL JAIPUR EXP",
+        "Priority": 3,
+        "From_Station": "BPL",
+        "To_Station": "JP",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "16:35"
+    },
+    {
+        "Train_No": 14814,
+        "Train_Name": "BPL JODHPUR EXP",
+        "Priority": 3,
+        "From_Station": "BPL",
+        "To_Station": "JU",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "16:55"
+    },
+    {
+        "Train_No": 19324,
+        "Train_Name": "INDB INTERCITY",
+        "Priority": 5,
+        "From_Station": "BPL",
+        "To_Station": "DADN",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "17:00"
+    },
+    {
+        "Train_No": 18236,
+        "Train_Name": "BSP BPL PAS EXP",
+        "Priority": 3,
+        "From_Station": "BSP",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "17:18",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 22161,
+        "Train_Name": "RAJYA RANI EXP",
+        "Priority": 2,
+        "From_Station": "BPL",
+        "To_Station": "DMO",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "17:55"
+    },
+    {
+        "Train_No": 11272,
+        "Train_Name": "VINDHYACHAL EXP",
+        "Priority": 3,
+        "From_Station": "BPL",
+        "To_Station": "ET",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "18:20"
+    },
+    {
+        "Train_No": 13025,
+        "Train_Name": "HWH BPL EXPRESS",
+        "Priority": 3,
+        "From_Station": "HWH",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "18:20",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 12183,
+        "Train_Name": "BPL MBDP SF EXP",
+        "Priority": 2,
+        "From_Station": "BPL",
+        "To_Station": "MBDP",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "19:15"
+    },
+    {
+        "Train_No": 12183,
+        "Train_Name": "BPL MBDP SF EXP",
+        "Priority": 2,
+        "From_Station": "BINA",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "20:50",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 22165,
+        "Train_Name": "BPL SGRL SUP EXP",
+        "Priority": 2,
+        "From_Station": "BPL",
+        "To_Station": "SGRL",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "20:55"
+    },
+    {
+        "Train_No": 22165,
+        "Train_Name": "BPL SGRL SUP EXP",
+        "Priority": 2,
+        "From_Station": "UJN",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "22:15",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 22145,
+        "Train_Name": "BPL REWA SF EXP",
+        "Priority": 2,
+        "From_Station": "BPL",
+        "To_Station": "REWA",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "23:05"
+    },
+    {
+        "Train_No": 22164,
+        "Train_Name": "MAHAMANA EXP",
+        "Priority": 2,
+        "From_Station": "KURJ",
+        "To_Station": "BPL",
+        "Scheduled_Arrival": "23:05",
+        "Scheduled_Departure": null
+    },
+    {
+        "Train_No": 19304,
+        "Train_Name": "BPL INDB EXPRESS",
+        "Priority": 3,
+        "From_Station": "BPL",
+        "To_Station": "INDB",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "23:10"
+    },
+    {
+        "Train_No": 19304,
+        "Train_Name": "BPL INDB EXPRESS",
+        "Priority": 3,
+        "From_Station": "BPL",
+        "To_Station": "LJN",
+        "Scheduled_Arrival": null,
+        "Scheduled_Departure": "23:55"
+    },
+    {
+        "Train_No": 1662,
+        "Train_Name": "GAYA RKMP SPL",
+        "Priority": 4,
+        "From_Station": "GAYA",
+        "To_Station": "RKMP",
+        "Scheduled_Arrival": "10:28",
+        "Scheduled_Departure": "10:30"
+    },
+    {
+        "Train_No": 1661,
+        "Train_Name": "RKMP GAYA SPL",
+        "Priority": 4,
+        "From_Station": "RKMP",
+        "To_Station": "GAYA",
+        "Scheduled_Arrival": "13:43",
+        "Scheduled_Departure": "13:45"
+    },
+    {
+        "Train_No": 1661,
+        "Train_Name": "RKMP GAYA SPL",
+        "Priority": 4,
+        "From_Station": "NDLS",
+        "To_Station": "RKMP",
+        "Scheduled_Arrival": "14:12",
+        "Scheduled_Departure": "14:15"
+    },
+    {
+        "Train_No": 1661,
+        "Train_Name": "RKMP GAYA SPL",
+        "Priority": 4,
+        "From_Station": "RKMP",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "15:22",
+        "Scheduled_Departure": "15:25"
+    },
+    {
+        "Train_No": 11408,
+        "Train_Name": "LJN PUNE EXP",
+        "Priority": 3,
+        "From_Station": "LJN",
+        "To_Station": "PUNE",
+        "Scheduled_Arrival": "17:21",
+        "Scheduled_Departure": "17:25"
+    },
+    {
+        "Train_No": 11078,
+        "Train_Name": "JHELUM EXPRESS",
+        "Priority": 3,
+        "From_Station": "JAT",
+        "To_Station": "PUNE",
+        "Scheduled_Arrival": "00:00",
+        "Scheduled_Departure": "00:05"
+    },
+    {
+        "Train_No": 22910,
+        "Train_Name": "PURI VALSAD EXP",
+        "Priority": 2,
+        "From_Station": "PURI",
+        "To_Station": "BL",
+        "Scheduled_Arrival": "00:10",
+        "Scheduled_Departure": "00:15"
+    },
+    {
+        "Train_No": 22910,
+        "Train_Name": "PURI VALSAD EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "CSMT",
+        "Scheduled_Arrival": "00:35",
+        "Scheduled_Departure": "00:40"
+    },
+    {
+        "Train_No": 12406,
+        "Train_Name": "GONDWANA EXPRESS",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "BSL",
+        "Scheduled_Arrival": "01:05",
+        "Scheduled_Departure": "01:10"
+    },
+    {
+        "Train_No": 12410,
+        "Train_Name": "GONDWANA EXPRES",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "RIG",
+        "Scheduled_Arrival": "01:05",
+        "Scheduled_Departure": "01:10"
+    },
+    {
+        "Train_No": 19302,
+        "Train_Name": "YPR DADN EXP",
+        "Priority": 3,
+        "From_Station": "YPR",
+        "To_Station": "DADN",
+        "Scheduled_Arrival": "01:10",
+        "Scheduled_Departure": "01:15"
+    },
+    {
+        "Train_No": 19301,
+        "Train_Name": "YESHVANTPUR EXP",
+        "Priority": 3,
+        "From_Station": "DADN",
+        "To_Station": "YPR",
+        "Scheduled_Arrival": "01:35",
+        "Scheduled_Departure": "01:40"
+    },
+    {
+        "Train_No": 12191,
+        "Train_Name": "NZM JBP SUP EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "JBP",
+        "Scheduled_Arrival": "01:55",
+        "Scheduled_Departure": "02:00"
+    },
+    {
+        "Train_No": 12191,
+        "Train_Name": "NZM JBP SUP EXP",
+        "Priority": 2,
+        "From_Station": "CSMT",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "01:55",
+        "Scheduled_Departure": "02:00"
+    },
+    {
+        "Train_No": 12715,
+        "Train_Name": "SACHKHAND EXP",
+        "Priority": 2,
+        "From_Station": "NED",
+        "To_Station": "ASR",
+        "Scheduled_Arrival": "02:35",
+        "Scheduled_Departure": "02:40"
+    },
+    {
+        "Train_No": 12617,
+        "Train_Name": "MANGLADWEEP EXP",
+        "Priority": 2,
+        "From_Station": "ERS",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "02:50",
+        "Scheduled_Departure": "02:55"
+    },
+    {
+        "Train_No": 16788,
+        "Train_Name": "SVDK TEN EXP",
+        "Priority": 3,
+        "From_Station": "SVDK",
+        "To_Station": "TEN",
+        "Scheduled_Arrival": "03:00",
+        "Scheduled_Departure": "03:05"
+    },
+    {
+        "Train_No": 12598,
+        "Train_Name": "CSTM GKP JANSADHARAN",
+        "Priority": 2,
+        "From_Station": "CSMT",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "03:05",
+        "Scheduled_Departure": "03:10"
+    },
+    {
+        "Train_No": 12616,
+        "Train_Name": "GRAND TRUNK EXP",
+        "Priority": 2,
+        "From_Station": "NDLS",
+        "To_Station": "MAS",
+        "Scheduled_Arrival": "03:15",
+        "Scheduled_Departure": "03:20"
+    },
+    {
+        "Train_No": 22534,
+        "Train_Name": "YPR GORAKPUR EXP",
+        "Priority": 2,
+        "From_Station": "YPR",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "03:30",
+        "Scheduled_Departure": "03:35"
+    },
+    {
+        "Train_No": 12647,
+        "Train_Name": "KONGU EXPRESS",
+        "Priority": 2,
+        "From_Station": "CBE",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "03:30",
+        "Scheduled_Departure": "03:35"
+    },
+    {
+        "Train_No": 12103,
+        "Train_Name": "PUNE LUCKNOW EXP",
+        "Priority": 2,
+        "From_Station": "PUNE",
+        "To_Station": "LJN",
+        "Scheduled_Arrival": "03:30",
+        "Scheduled_Departure": "03:35"
+    },
+    {
+        "Train_No": 15024,
+        "Train_Name": "YPR GKP EXP",
+        "Priority": 3,
+        "From_Station": "YPR",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "03:30",
+        "Scheduled_Departure": "03:35"
+    },
+    {
+        "Train_No": 15030,
+        "Train_Name": "PUNE GKP EXPRESS",
+        "Priority": 3,
+        "From_Station": "PUNE",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "03:30",
+        "Scheduled_Departure": "03:35"
+    },
+    {
+        "Train_No": 1703,
+        "Train_Name": "DADN REWA SPL",
+        "Priority": 4,
+        "From_Station": "DADN",
+        "To_Station": "REWA",
+        "Scheduled_Arrival": "03:35",
+        "Scheduled_Departure": "03:40"
+    },
+    {
+        "Train_No": 18234,
+        "Train_Name": "NARMADA EXPRESS",
+        "Priority": 3,
+        "From_Station": "BSP",
+        "To_Station": "INDB",
+        "Scheduled_Arrival": "03:45",
+        "Scheduled_Departure": "03:50"
+    },
+    {
+        "Train_No": 11071,
+        "Train_Name": "KAMAYANI EXPRESS",
+        "Priority": 3,
+        "From_Station": "LTT",
+        "To_Station": "BUI",
+        "Scheduled_Arrival": "04:05",
+        "Scheduled_Departure": "04:10"
+    },
+    {
+        "Train_No": 12186,
+        "Train_Name": "REWANCHAL EXP",
+        "Priority": 2,
+        "From_Station": "REWA",
+        "To_Station": "RKMP",
+        "Scheduled_Arrival": "04:55",
+        "Scheduled_Departure": "05:00"
+    },
+    {
+        "Train_No": 22192,
+        "Train_Name": "JBP INDB EXP",
+        "Priority": 2,
+        "From_Station": "JBP",
+        "To_Station": "INDB",
+        "Scheduled_Arrival": "05:10",
+        "Scheduled_Departure": "05:15"
+    },
+    {
+        "Train_No": 12626,
+        "Train_Name": "KERALA EXPRESS",
+        "Priority": 2,
+        "From_Station": "NDLS",
+        "To_Station": "TVC",
+        "Scheduled_Arrival": "05:20",
+        "Scheduled_Departure": "05:25"
+    },
+    {
+        "Train_No": 12156,
+        "Train_Name": "BHOPAL EXPRESS",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "RKMP",
+        "Scheduled_Arrival": "05:40",
+        "Scheduled_Departure": "05:45"
+    },
+    {
+        "Train_No": 18237,
+        "Train_Name": "CHHATTISGARH EXP",
+        "Priority": 3,
+        "From_Station": "KRBA",
+        "To_Station": "ASR",
+        "Scheduled_Arrival": "06:10",
+        "Scheduled_Departure": "06:15"
+    },
+    {
+        "Train_No": 12628,
+        "Train_Name": "KARNATAKA EXP",
+        "Priority": 2,
+        "From_Station": "NDLS",
+        "To_Station": "SBC",
+        "Scheduled_Arrival": "06:25",
+        "Scheduled_Departure": "06:30"
+    },
+    {
+        "Train_No": 12645,
+        "Train_Name": "NIZAMUDDIN EXP",
+        "Priority": 2,
+        "From_Station": "ERS",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "06:45",
+        "Scheduled_Departure": "06:50"
+    },
+    {
+        "Train_No": 12803,
+        "Train_Name": "SWARNAJAYANTI EX",
+        "Priority": 2,
+        "From_Station": "VSKP",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "06:45",
+        "Scheduled_Departure": "06:50"
+    },
+    {
+        "Train_No": 12622,
+        "Train_Name": "TAMIL NADU EXP",
+        "Priority": 2,
+        "From_Station": "NDLS",
+        "To_Station": "MAS",
+        "Scheduled_Arrival": "06:45",
+        "Scheduled_Departure": "06:50"
+    },
+    {
+        "Train_No": 22584,
+        "Train_Name": "JANSADHARAN EXP",
+        "Priority": 2,
+        "From_Station": "LTT",
+        "To_Station": "CPR",
+        "Scheduled_Arrival": "06:45",
+        "Scheduled_Departure": "06:50"
+    },
+    {
+        "Train_No": 12643,
+        "Train_Name": "NIZAMUDDIN EXP",
+        "Priority": 2,
+        "From_Station": "TVC",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "06:45",
+        "Scheduled_Departure": "06:50"
+    },
+    {
+        "Train_No": 11463,
+        "Train_Name": "SMNH JBP EXPRES",
+        "Priority": 3,
+        "From_Station": "SMNH",
+        "To_Station": "JBP",
+        "Scheduled_Arrival": "06:55",
+        "Scheduled_Departure": "07:00"
+    },
+    {
+        "Train_No": 12807,
+        "Train_Name": "SAMTA EXPRESS",
+        "Priority": 2,
+        "From_Station": "VSKP",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "07:05",
+        "Scheduled_Departure": "07:10"
+    },
+    {
+        "Train_No": 12976,
+        "Train_Name": "JP MYSORE EXP",
+        "Priority": 2,
+        "From_Station": "JP",
+        "To_Station": "MYS",
+        "Scheduled_Arrival": "07:15",
+        "Scheduled_Departure": "07:20"
+    },
+    {
+        "Train_No": 11072,
+        "Train_Name": "KAMAYANI EXPRES",
+        "Priority": 3,
+        "From_Station": "BUI",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "07:25",
+        "Scheduled_Departure": "07:30"
+    },
+    {
+        "Train_No": 20481,
+        "Train_Name": "TPJ SF HUMSAFAR",
+        "Priority": 2,
+        "From_Station": "JU",
+        "To_Station": "TPJ",
+        "Scheduled_Arrival": "08:45",
+        "Scheduled_Departure": "08:50"
+    },
+    {
+        "Train_No": 15029,
+        "Train_Name": "GKP PUNE EXP",
+        "Priority": 3,
+        "From_Station": "GKP",
+        "To_Station": "PUNE",
+        "Scheduled_Arrival": "08:45",
+        "Scheduled_Departure": "08:50"
+    },
+    {
+        "Train_No": 11077,
+        "Train_Name": "JHELUM EXPRESS",
+        "Priority": 3,
+        "From_Station": "PUNE",
+        "To_Station": "JAT",
+        "Scheduled_Arrival": "08:45",
+        "Scheduled_Departure": "08:50"
+    },
+    {
+        "Train_No": 22673,
+        "Train_Name": "BGKT MQ EXPRESS",
+        "Priority": 2,
+        "From_Station": "JU",
+        "To_Station": "MQ",
+        "Scheduled_Arrival": "08:55",
+        "Scheduled_Departure": "09:00"
+    },
+    {
+        "Train_No": 1704,
+        "Train_Name": "REWA DADN SPL",
+        "Priority": 4,
+        "From_Station": "REWA",
+        "To_Station": "DADN",
+        "Scheduled_Arrival": "09:00",
+        "Scheduled_Departure": "09:05"
+    },
+    {
+        "Train_No": 16787,
+        "Train_Name": "TEN SVDK EXP",
+        "Priority": 3,
+        "From_Station": "TEN",
+        "To_Station": "SVDK",
+        "Scheduled_Arrival": "09:05",
+        "Scheduled_Departure": "09:10"
+    },
+    {
+        "Train_No": 16317,
+        "Train_Name": "HIMSAGAR EXP",
+        "Priority": 3,
+        "From_Station": "CAPE",
+        "To_Station": "SVDK",
+        "Scheduled_Arrival": "09:05",
+        "Scheduled_Departure": "09:10"
+    },
+    {
+        "Train_No": 16031,
+        "Train_Name": "ANDAMAN EXPRESS",
+        "Priority": 3,
+        "From_Station": "MAS",
+        "To_Station": "SVDK",
+        "Scheduled_Arrival": "09:05",
+        "Scheduled_Departure": "09:10"
+    },
+    {
+        "Train_No": 16031,
+        "Train_Name": "ANDAMAN EXPRESS",
+        "Priority": 3,
+        "From_Station": "INDB",
+        "To_Station": "NGP",
+        "Scheduled_Arrival": "09:10",
+        "Scheduled_Departure": "09:15"
+    },
+    {
+        "Train_No": 11058,
+        "Train_Name": "ASR CSMT EXP",
+        "Priority": 3,
+        "From_Station": "ASR",
+        "To_Station": "CSMT",
+        "Scheduled_Arrival": "09:20",
+        "Scheduled_Departure": "09:25"
+    },
+    {
+        "Train_No": 12722,
+        "Train_Name": "DAKSHIN EXPRESS",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "HYB",
+        "Scheduled_Arrival": "09:40",
+        "Scheduled_Departure": "09:45"
+    },
+    {
+        "Train_No": 12137,
+        "Train_Name": "PUNJAB MAIL",
+        "Priority": 2,
+        "From_Station": "CSMT",
+        "To_Station": "FZR",
+        "Scheduled_Arrival": "09:45",
+        "Scheduled_Departure": "09:50"
+    },
+    {
+        "Train_No": 12943,
+        "Train_Name": "UDYOGKARMI EXP",
+        "Priority": 2,
+        "From_Station": "BL",
+        "To_Station": "CNB",
+        "Scheduled_Arrival": "10:30",
+        "Scheduled_Departure": "10:35"
+    },
+    {
+        "Train_No": 7023,
+        "Train_Name": "CHZ NZM SPL",
+        "Priority": 4,
+        "From_Station": "CHZ",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "13:45",
+        "Scheduled_Departure": "13:50"
+    },
+    {
+        "Train_No": 7075,
+        "Train_Name": "HYB GKP SPL",
+        "Priority": 4,
+        "From_Station": "HYB",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "13:45",
+        "Scheduled_Departure": "13:50"
+    },
+    {
+        "Train_No": 11407,
+        "Train_Name": "PUNE LJN EXPRESS",
+        "Priority": 3,
+        "From_Station": "PUNE",
+        "To_Station": "LJN",
+        "Scheduled_Arrival": "13:55",
+        "Scheduled_Departure": "14:00"
+    },
+    {
+        "Train_No": 7024,
+        "Train_Name": "CHZ SUMMER SPL",
+        "Priority": 4,
+        "From_Station": "NZM",
+        "To_Station": "CHZ",
+        "Scheduled_Arrival": "14:25",
+        "Scheduled_Departure": "14:30"
+    },
+    {
+        "Train_No": 22538,
+        "Train_Name": "KUSHINAGAR SF EXP",
+        "Priority": 2,
+        "From_Station": "LTT",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "14:45",
+        "Scheduled_Departure": "14:50"
+    },
+    {
+        "Train_No": 12804,
+        "Train_Name": "VSKP SWRN J EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "VSKP",
+        "Scheduled_Arrival": "15:25",
+        "Scheduled_Departure": "15:30"
+    },
+    {
+        "Train_No": 12644,
+        "Train_Name": "SWARNA JAYANTI",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "TVC",
+        "Scheduled_Arrival": "15:25",
+        "Scheduled_Departure": "15:30"
+    },
+    {
+        "Train_No": 12646,
+        "Train_Name": "ERS MILLENUM EX",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "ERS",
+        "Scheduled_Arrival": "15:25",
+        "Scheduled_Departure": "15:30"
+    },
+    {
+        "Train_No": 12148,
+        "Train_Name": "NZM KOP EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "KOP",
+        "Scheduled_Arrival": "15:25",
+        "Scheduled_Departure": "15:30"
+    },
+    {
+        "Train_No": 11057,
+        "Train_Name": "CSMT ASR EXP",
+        "Priority": 3,
+        "From_Station": "CSMT",
+        "To_Station": "ASR",
+        "Scheduled_Arrival": "15:25",
+        "Scheduled_Departure": "15:30"
+    },
+    {
+        "Train_No": 12782,
+        "Train_Name": "SWARNA JAYANTHI",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "MYS",
+        "Scheduled_Arrival": "15:25",
+        "Scheduled_Departure": "15:30"
+    },
+    {
+        "Train_No": 12618,
+        "Train_Name": "MNGLA LKSDP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "ERS",
+        "Scheduled_Arrival": "16:20",
+        "Scheduled_Departure": "16:25"
+    },
+    {
+        "Train_No": 12138,
+        "Train_Name": "PUNJAB MAIL",
+        "Priority": 2,
+        "From_Station": "FZR",
+        "To_Station": "CSMT",
+        "Scheduled_Arrival": "16:35",
+        "Scheduled_Departure": "16:40"
+    },
+    {
+        "Train_No": 20423,
+        "Train_Name": "PATALKOT SF EXP",
+        "Priority": 2,
+        "From_Station": "SEY",
+        "To_Station": "FZR",
+        "Scheduled_Arrival": "16:35",
+        "Scheduled_Departure": "16:40"
+    },
+    {
+        "Train_No": 12648,
+        "Train_Name": "KONGU EXPRESS",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "CBE",
+        "Scheduled_Arrival": "17:00",
+        "Scheduled_Departure": "17:05"
+    },
+    {
+        "Train_No": 12721,
+        "Train_Name": "DAKSHIN EXP",
+        "Priority": 2,
+        "From_Station": "HYB",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "17:10",
+        "Scheduled_Departure": "17:15"
+    },
+    {
+        "Train_No": 18238,
+        "Train_Name": "CHHATISGARH EXP",
+        "Priority": 3,
+        "From_Station": "ASR",
+        "To_Station": "BSP",
+        "Scheduled_Arrival": "17:55",
+        "Scheduled_Departure": "18:00"
+    },
+    {
+        "Train_No": 12615,
+        "Train_Name": "GRAND TRUNK EXP",
+        "Priority": 2,
+        "From_Station": "MAS",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "18:40",
+        "Scheduled_Departure": "18:45"
+    },
+    {
+        "Train_No": 22129,
+        "Train_Name": "TULSI EXPRESS",
+        "Priority": 2,
+        "From_Station": "LTT",
+        "To_Station": "AYC",
+        "Scheduled_Arrival": "19:45",
+        "Scheduled_Departure": "19:50"
+    },
+    {
+        "Train_No": 20846,
+        "Train_Name": "BKN BSP EXP",
+        "Priority": 2,
+        "From_Station": "BKN",
+        "To_Station": "BSP",
+        "Scheduled_Arrival": "19:45",
+        "Scheduled_Departure": "19:50"
+    },
+    {
+        "Train_No": 20844,
+        "Train_Name": "BGKT BSP EXP",
+        "Priority": 2,
+        "From_Station": "BGKT",
+        "To_Station": "BSP",
+        "Scheduled_Arrival": "19:45",
+        "Scheduled_Departure": "19:50"
+    },
+    {
+        "Train_No": 20844,
+        "Train_Name": "BGKT BSP EXP",
+        "Priority": 2,
+        "From_Station": "NGP",
+        "To_Station": "INDB",
+        "Scheduled_Arrival": "20:30",
+        "Scheduled_Departure": "20:35"
+    },
+    {
+        "Train_No": 12521,
+        "Train_Name": "RAPTI SAGAR EXP",
+        "Priority": 2,
+        "From_Station": "BJU",
+        "To_Station": "ERS",
+        "Scheduled_Arrival": "20:55",
+        "Scheduled_Departure": "21:00"
+    },
+    {
+        "Train_No": 12511,
+        "Train_Name": "RAPTI SAGAR EXP",
+        "Priority": 2,
+        "From_Station": "GKP",
+        "To_Station": "TVCN",
+        "Scheduled_Arrival": "20:55",
+        "Scheduled_Departure": "21:00"
+    },
+    {
+        "Train_No": 12589,
+        "Train_Name": "GKP SC EXPRESS",
+        "Priority": 2,
+        "From_Station": "GKP",
+        "To_Station": "SC",
+        "Scheduled_Arrival": "20:55",
+        "Scheduled_Departure": "21:00"
+    },
+    {
+        "Train_No": 22533,
+        "Train_Name": "GKP YPR EXPRESS",
+        "Priority": 2,
+        "From_Station": "GKP",
+        "To_Station": "YPR",
+        "Scheduled_Arrival": "20:55",
+        "Scheduled_Departure": "21:00"
+    },
+    {
+        "Train_No": 12591,
+        "Train_Name": "GKP YPR EXPRESS",
+        "Priority": 2,
+        "From_Station": "GKP",
+        "To_Station": "YPR",
+        "Scheduled_Arrival": "20:55",
+        "Scheduled_Departure": "21:00"
+    },
+    {
+        "Train_No": 20424,
+        "Train_Name": "PATALKOT EXP",
+        "Priority": 2,
+        "From_Station": "FZR",
+        "To_Station": "SEY",
+        "Scheduled_Arrival": "21:50",
+        "Scheduled_Departure": "21:55"
+    },
+    {
+        "Train_No": 12185,
+        "Train_Name": "REWANCHAL EXP",
+        "Priority": 2,
+        "From_Station": "RKMP",
+        "To_Station": "REWA",
+        "Scheduled_Arrival": "22:10",
+        "Scheduled_Departure": "22:15"
+    },
+    {
+        "Train_No": 12716,
+        "Train_Name": "SACHKHAND EXP",
+        "Priority": 2,
+        "From_Station": "ASR",
+        "To_Station": "NED",
+        "Scheduled_Arrival": "22:40",
+        "Scheduled_Departure": "22:45"
+    },
+    {
+        "Train_No": 12155,
+        "Train_Name": "BHOPAL EXPRESS",
+        "Priority": 2,
+        "From_Station": "RKMP",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "22:53",
+        "Scheduled_Departure": "22:58"
+    },
+    {
+        "Train_No": 7076,
+        "Train_Name": "GKP HYB SPL",
+        "Priority": 4,
+        "From_Station": "GKP",
+        "To_Station": "HYB",
+        "Scheduled_Arrival": "23:00",
+        "Scheduled_Departure": "23:05"
+    },
+    {
+        "Train_No": 12627,
+        "Train_Name": "KARNATAKA EXP",
+        "Priority": 2,
+        "From_Station": "SBC",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "23:00",
+        "Scheduled_Departure": "23:05"
+    },
+    {
+        "Train_No": 12597,
+        "Train_Name": "GKP CSTM JANSADHARAN",
+        "Priority": 2,
+        "From_Station": "GKP",
+        "To_Station": "CSMT",
+        "Scheduled_Arrival": "23:00",
+        "Scheduled_Departure": "23:05"
+    },
+    {
+        "Train_No": 12522,
+        "Train_Name": "RAPTISAGAR EXP",
+        "Priority": 2,
+        "From_Station": "ERS",
+        "To_Station": "BJU",
+        "Scheduled_Arrival": "23:40",
+        "Scheduled_Departure": "23:45"
+    },
+    {
+        "Train_No": 12592,
+        "Train_Name": "GORAKHPUR EXP",
+        "Priority": 2,
+        "From_Station": "YPR",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "23:40",
+        "Scheduled_Departure": "23:45"
+    },
+    {
+        "Train_No": 12512,
+        "Train_Name": "RAPTISAGAR EXP",
+        "Priority": 2,
+        "From_Station": "TVCN",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "23:40",
+        "Scheduled_Departure": "23:45"
+    },
+    {
+        "Train_No": 12192,
+        "Train_Name": "JBP NZM SF EXP",
+        "Priority": 2,
+        "From_Station": "JBP",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "23:53",
+        "Scheduled_Departure": "23:58"
+    },
+    {
+        "Train_No": 22685,
+        "Train_Name": "YPR  SKRANTIEXP",
+        "Priority": 2,
+        "From_Station": "YPR",
+        "To_Station": "CDG",
+        "Scheduled_Arrival": "00:02",
+        "Scheduled_Departure": "00:10"
+    },
+    {
+        "Train_No": 12629,
+        "Train_Name": "SAMPARK KRANTI",
+        "Priority": 2,
+        "From_Station": "YPR",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "00:02",
+        "Scheduled_Departure": "00:10"
+    },
+    {
+        "Train_No": 12753,
+        "Train_Name": "MARATHWADA SMPK",
+        "Priority": 2,
+        "From_Station": "NED",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "00:00",
+        "Scheduled_Departure": "00:10"
+    },
+    {
+        "Train_No": 11085,
+        "Train_Name": "SMVB GWL EXP",
+        "Priority": 3,
+        "From_Station": "SMVB",
+        "To_Station": "GWL",
+        "Scheduled_Arrival": "00:00",
+        "Scheduled_Departure": "00:10"
+    },
+    {
+        "Train_No": 22125,
+        "Train_Name": "NGP ASR AC EXP",
+        "Priority": 2,
+        "From_Station": "NGP",
+        "To_Station": "ASR",
+        "Scheduled_Arrival": "00:02",
+        "Scheduled_Departure": "00:12"
+    },
+    {
+        "Train_No": 12485,
+        "Train_Name": "NED SGNR EXPRES",
+        "Priority": 2,
+        "From_Station": "NED",
+        "To_Station": "SGNR",
+        "Scheduled_Arrival": "00:20",
+        "Scheduled_Departure": "00:30"
+    },
+    {
+        "Train_No": 12421,
+        "Train_Name": "NED ASR SUP EXP",
+        "Priority": 2,
+        "From_Station": "NED",
+        "To_Station": "ASR",
+        "Scheduled_Arrival": "00:20",
+        "Scheduled_Departure": "00:30"
+    },
+    {
+        "Train_No": 22709,
+        "Train_Name": "NED AADR SF EXP",
+        "Priority": 2,
+        "From_Station": "NED",
+        "To_Station": "AADR",
+        "Scheduled_Arrival": "00:20",
+        "Scheduled_Departure": "00:30"
+    },
+    {
+        "Train_No": 12439,
+        "Train_Name": "NED SGNR EXP",
+        "Priority": 2,
+        "From_Station": "NED",
+        "To_Station": "SGNR",
+        "Scheduled_Arrival": "00:20",
+        "Scheduled_Departure": "00:30"
+    },
+    {
+        "Train_No": 12724,
+        "Train_Name": "TELANGANA EXP",
+        "Priority": 2,
+        "From_Station": "NDLS",
+        "To_Station": "HYB",
+        "Scheduled_Arrival": "01:20",
+        "Scheduled_Departure": "01:30"
+    },
+    {
+        "Train_No": 20918,
+        "Train_Name": "INDB HUMSAFAR EX",
+        "Priority": 2,
+        "From_Station": "PURI",
+        "To_Station": "INDB",
+        "Scheduled_Arrival": "01:30",
+        "Scheduled_Departure": "01:40"
+    },
+    {
+        "Train_No": 20918,
+        "Train_Name": "INDB HUMSAFAR EX",
+        "Priority": 2,
+        "From_Station": "MAS",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "02:05",
+        "Scheduled_Departure": "02:15"
+    },
+    {
+        "Train_No": 20918,
+        "Train_Name": "INDB HUMSAFAR EX",
+        "Priority": 2,
+        "From_Station": "BSP",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "02:05",
+        "Scheduled_Departure": "02:15"
+    },
+    {
+        "Train_No": 20918,
+        "Train_Name": "INDB HUMSAFAR EX",
+        "Priority": 2,
+        "From_Station": "MAS",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "02:05",
+        "Scheduled_Departure": "02:15"
+    },
+    {
+        "Train_No": 20918,
+        "Train_Name": "INDB HUMSAFAR EX",
+        "Priority": 2,
+        "From_Station": "SC",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "02:05",
+        "Scheduled_Departure": "02:15"
+    },
+    {
+        "Train_No": 20494,
+        "Train_Name": "CDG MDU SF EXP",
+        "Priority": 2,
+        "From_Station": "CDG",
+        "To_Station": "MDU",
+        "Scheduled_Arrival": "02:10",
+        "Scheduled_Departure": "02:20"
+    },
+    {
+        "Train_No": 16318,
+        "Train_Name": "HIMSAGAR EXP",
+        "Priority": 3,
+        "From_Station": "SVDK",
+        "To_Station": "CAPE",
+        "Scheduled_Arrival": "02:10",
+        "Scheduled_Departure": "02:20"
+    },
+    {
+        "Train_No": 16032,
+        "Train_Name": "ANDAMAN EXPRESS",
+        "Priority": 3,
+        "From_Station": "SVDK",
+        "To_Station": "MAS",
+        "Scheduled_Arrival": "02:10",
+        "Scheduled_Departure": "02:20"
+    },
+    {
+        "Train_No": 12780,
+        "Train_Name": "GOA EXPRESS",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "VSG",
+        "Scheduled_Arrival": "02:35",
+        "Scheduled_Departure": "02:45"
+    },
+    {
+        "Train_No": 12104,
+        "Train_Name": "LJN PUNE EXP",
+        "Priority": 2,
+        "From_Station": "LJN",
+        "To_Station": "PUNE",
+        "Scheduled_Arrival": "02:55",
+        "Scheduled_Departure": "03:05"
+    },
+    {
+        "Train_No": 16094,
+        "Train_Name": "LJN  MAS EXP",
+        "Priority": 3,
+        "From_Station": "LJN",
+        "To_Station": "MAS",
+        "Scheduled_Arrival": "02:55",
+        "Scheduled_Departure": "03:05"
+    },
+    {
+        "Train_No": 15023,
+        "Train_Name": "GKP YPR EXP",
+        "Priority": 3,
+        "From_Station": "GKP",
+        "To_Station": "YPR",
+        "Scheduled_Arrival": "02:55",
+        "Scheduled_Departure": "03:05"
+    },
+    {
+        "Train_No": 14314,
+        "Train_Name": "BE LTT EXPRESS",
+        "Priority": 3,
+        "From_Station": "BE",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "02:55",
+        "Scheduled_Departure": "03:05"
+    },
+    {
+        "Train_No": 4718,
+        "Train_Name": "TPTY HSR SPL",
+        "Priority": 4,
+        "From_Station": "TPTY",
+        "To_Station": "HSR",
+        "Scheduled_Arrival": "03:15",
+        "Scheduled_Departure": "03:25"
+    },
+    {
+        "Train_No": 12625,
+        "Train_Name": "KERALA EXPRESS",
+        "Priority": 2,
+        "From_Station": "TVC",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "03:45",
+        "Scheduled_Departure": "03:55"
+    },
+    {
+        "Train_No": 12625,
+        "Train_Name": "KERALA EXPRESS",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "SBC",
+        "Scheduled_Arrival": "03:45",
+        "Scheduled_Departure": "03:55"
+    },
+    {
+        "Train_No": 20806,
+        "Train_Name": "NDLS VSKP AP EXP",
+        "Priority": 2,
+        "From_Station": "NDLS",
+        "To_Station": "VSKP",
+        "Scheduled_Arrival": "04:35",
+        "Scheduled_Departure": "04:45"
+    },
+    {
+        "Train_No": 12143,
+        "Train_Name": "LTT SLN SUP EXP",
+        "Priority": 2,
+        "From_Station": "LTT",
+        "To_Station": "SLN",
+        "Scheduled_Arrival": "05:15",
+        "Scheduled_Departure": "05:25"
+    },
+    {
+        "Train_No": 12107,
+        "Train_Name": "LTT SITAPUR EXP",
+        "Priority": 2,
+        "From_Station": "LTT",
+        "To_Station": "STP",
+        "Scheduled_Arrival": "05:35",
+        "Scheduled_Departure": "05:45"
+    },
+    {
+        "Train_No": 12173,
+        "Train_Name": "UDYOG NAGRI EXP",
+        "Priority": 2,
+        "From_Station": "LTT",
+        "To_Station": "MBDP",
+        "Scheduled_Arrival": "05:35",
+        "Scheduled_Departure": "05:45"
+    },
+    {
+        "Train_No": 22130,
+        "Train_Name": "TULSI EXPRESS",
+        "Priority": 2,
+        "From_Station": "AYC",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "05:55",
+        "Scheduled_Departure": "06:05"
+    },
+    {
+        "Train_No": 12719,
+        "Train_Name": "JP HYB SF EXP",
+        "Priority": 2,
+        "From_Station": "JP",
+        "To_Station": "HYB",
+        "Scheduled_Arrival": "06:10",
+        "Scheduled_Departure": "06:20"
+    },
+    {
+        "Train_No": 7019,
+        "Train_Name": "JP HYB SPL",
+        "Priority": 4,
+        "From_Station": "JP",
+        "To_Station": "HYB",
+        "Scheduled_Arrival": "06:10",
+        "Scheduled_Departure": "06:20"
+    },
+    {
+        "Train_No": 17019,
+        "Train_Name": "HSR HYB EXPRESS",
+        "Priority": 3,
+        "From_Station": "HSR",
+        "To_Station": "HYB",
+        "Scheduled_Arrival": "06:10",
+        "Scheduled_Departure": "06:20"
+    },
+    {
+        "Train_No": 12781,
+        "Train_Name": "SWARNA JAYANTHI",
+        "Priority": 2,
+        "From_Station": "MYS",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "06:25",
+        "Scheduled_Departure": "06:35"
+    },
+    {
+        "Train_No": 14621,
+        "Train_Name": "NED FZR EXPRESS",
+        "Priority": 3,
+        "From_Station": "NED",
+        "To_Station": "FZR",
+        "Scheduled_Arrival": "06:25",
+        "Scheduled_Departure": "06:35"
+    },
+    {
+        "Train_No": 12147,
+        "Train_Name": "NIZAMUDDIN EXP",
+        "Priority": 2,
+        "From_Station": "KOP",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "06:25",
+        "Scheduled_Departure": "06:35"
+    },
+    {
+        "Train_No": 12533,
+        "Train_Name": "PUSHPAK EXPRESS",
+        "Priority": 2,
+        "From_Station": "LJN",
+        "To_Station": "CSMT",
+        "Scheduled_Arrival": "07:00",
+        "Scheduled_Departure": "07:10"
+    },
+    {
+        "Train_No": 20814,
+        "Train_Name": "JU PURI EXPRESS",
+        "Priority": 2,
+        "From_Station": "JU",
+        "To_Station": "PURI",
+        "Scheduled_Arrival": "07:10",
+        "Scheduled_Departure": "07:20"
+    },
+    {
+        "Train_No": 12968,
+        "Train_Name": "JP CHENNAI EXP",
+        "Priority": 2,
+        "From_Station": "JP",
+        "To_Station": "MAS",
+        "Scheduled_Arrival": "07:10",
+        "Scheduled_Departure": "07:20"
+    },
+    {
+        "Train_No": 12970,
+        "Train_Name": "JP CBE SUP EXP",
+        "Priority": 2,
+        "From_Station": "JP",
+        "To_Station": "CBE",
+        "Scheduled_Arrival": "07:10",
+        "Scheduled_Departure": "07:20"
+    },
+    {
+        "Train_No": 22909,
+        "Train_Name": "BL PURI SF EXP",
+        "Priority": 2,
+        "From_Station": "BL",
+        "To_Station": "PURI",
+        "Scheduled_Arrival": "07:10",
+        "Scheduled_Departure": "07:20"
+    },
+    {
+        "Train_No": 12172,
+        "Train_Name": "HW LTT AC SF",
+        "Priority": 2,
+        "From_Station": "HW",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "07:40",
+        "Scheduled_Departure": "07:50"
+    },
+    {
+        "Train_No": 22456,
+        "Train_Name": "KLK SNSI SF EXP",
+        "Priority": 2,
+        "From_Station": "KLK",
+        "To_Station": "SNSI",
+        "Scheduled_Arrival": "07:40",
+        "Scheduled_Departure": "07:50"
+    },
+    {
+        "Train_No": 12754,
+        "Train_Name": "MARATHWADA S K",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "NED",
+        "Scheduled_Arrival": "07:40",
+        "Scheduled_Departure": "07:50"
+    },
+    {
+        "Train_No": 19344,
+        "Train_Name": "PANCHVALLEY EXP",
+        "Priority": 3,
+        "From_Station": "NIR",
+        "To_Station": "INDB",
+        "Scheduled_Arrival": "07:50",
+        "Scheduled_Departure": "08:00"
+    },
+    {
+        "Train_No": 14622,
+        "Train_Name": "FZR NED EXP",
+        "Priority": 3,
+        "From_Station": "FZR",
+        "To_Station": "NED",
+        "Scheduled_Arrival": "08:05",
+        "Scheduled_Departure": "08:15"
+    },
+    {
+        "Train_No": 12108,
+        "Train_Name": "STP LTT SF EXP",
+        "Priority": 2,
+        "From_Station": "STP",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "08:05",
+        "Scheduled_Departure": "08:15"
+    },
+    {
+        "Train_No": 12707,
+        "Train_Name": "A P SMPRK KRNTI",
+        "Priority": 2,
+        "From_Station": "TPTY",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "08:15",
+        "Scheduled_Departure": "08:25"
+    },
+    {
+        "Train_No": 12641,
+        "Train_Name": "TIRUKKURAL EXP",
+        "Priority": 2,
+        "From_Station": "CAPE",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "08:15",
+        "Scheduled_Departure": "08:25"
+    },
+    {
+        "Train_No": 12651,
+        "Train_Name": "SAMPARK KRANTI",
+        "Priority": 2,
+        "From_Station": "MDU",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "08:15",
+        "Scheduled_Departure": "08:25"
+    },
+    {
+        "Train_No": 20845,
+        "Train_Name": "BSP BKN SF EXP",
+        "Priority": 2,
+        "From_Station": "BSP",
+        "To_Station": "BKN",
+        "Scheduled_Arrival": "08:25",
+        "Scheduled_Departure": "08:35"
+    },
+    {
+        "Train_No": 20843,
+        "Train_Name": "BSP BGKT SF EXP",
+        "Priority": 2,
+        "From_Station": "BSP",
+        "To_Station": "BGKT",
+        "Scheduled_Arrival": "08:25",
+        "Scheduled_Departure": "08:35"
+    },
+    {
+        "Train_No": 22404,
+        "Train_Name": "NDLS PDY EXP",
+        "Priority": 2,
+        "From_Station": "NDLS",
+        "To_Station": "PDY",
+        "Scheduled_Arrival": "08:25",
+        "Scheduled_Departure": "08:35"
+    },
+    {
+        "Train_No": 22710,
+        "Train_Name": "AADR NED SF EXP",
+        "Priority": 2,
+        "From_Station": "AADR",
+        "To_Station": "NED",
+        "Scheduled_Arrival": "08:25",
+        "Scheduled_Departure": "08:35"
+    },
+    {
+        "Train_No": 12422,
+        "Train_Name": "ASR NED SF EXP",
+        "Priority": 2,
+        "From_Station": "ASR",
+        "To_Station": "NED",
+        "Scheduled_Arrival": "08:25",
+        "Scheduled_Departure": "08:35"
+    },
+    {
+        "Train_No": 12440,
+        "Train_Name": "SGNR NED EXP",
+        "Priority": 2,
+        "From_Station": "SGNR",
+        "To_Station": "NED",
+        "Scheduled_Arrival": "08:25",
+        "Scheduled_Departure": "08:35"
+    },
+    {
+        "Train_No": 12486,
+        "Train_Name": "SGNR NED EXPRESS",
+        "Priority": 2,
+        "From_Station": "SGNR",
+        "To_Station": "NED",
+        "Scheduled_Arrival": "08:25",
+        "Scheduled_Departure": "08:35"
+    },
+    {
+        "Train_No": 22632,
+        "Train_Name": "ANUVRAT EXP",
+        "Priority": 2,
+        "From_Station": "BKN",
+        "To_Station": "MDU",
+        "Scheduled_Arrival": "08:50",
+        "Scheduled_Departure": "09:00"
+    },
+    {
+        "Train_No": 2133,
+        "Train_Name": "BDTS JBP SF SPL",
+        "Priority": 2,
+        "From_Station": "BDTS",
+        "To_Station": "JBP",
+        "Scheduled_Arrival": "09:00",
+        "Scheduled_Departure": "09:10"
+    },
+    {
+        "Train_No": 4717,
+        "Train_Name": "HSR TPTY SF SPL",
+        "Priority": 2,
+        "From_Station": "HSR",
+        "To_Station": "TPTY",
+        "Scheduled_Arrival": "09:00",
+        "Scheduled_Departure": "09:10"
+    },
+    {
+        "Train_No": 20498,
+        "Train_Name": "FZR RMM HUMSAFAR",
+        "Priority": 2,
+        "From_Station": "FZR",
+        "To_Station": "RMM",
+        "Scheduled_Arrival": "09:20",
+        "Scheduled_Departure": "09:30"
+    },
+    {
+        "Train_No": 22176,
+        "Train_Name": "JAIPUR NGP SF EXP",
+        "Priority": 2,
+        "From_Station": "JP",
+        "To_Station": "NGP",
+        "Scheduled_Arrival": "09:25",
+        "Scheduled_Departure": "09:35"
+    },
+    {
+        "Train_No": 20497,
+        "Train_Name": "FZR HUMSAFAR",
+        "Priority": 2,
+        "From_Station": "RMM",
+        "To_Station": "FZR",
+        "Scheduled_Arrival": "09:25",
+        "Scheduled_Departure": "09:35"
+    },
+    {
+        "Train_No": 16093,
+        "Train_Name": "LUCKNOW EXP",
+        "Priority": 3,
+        "From_Station": "MAS",
+        "To_Station": "LJN",
+        "Scheduled_Arrival": "09:30",
+        "Scheduled_Departure": "09:40"
+    },
+    {
+        "Train_No": 20493,
+        "Train_Name": "MDU CDG EXP",
+        "Priority": 2,
+        "From_Station": "MDU",
+        "To_Station": "CDG",
+        "Scheduled_Arrival": "09:30",
+        "Scheduled_Departure": "09:40"
+    },
+    {
+        "Train_No": 22537,
+        "Train_Name": "KUSHINAGAR SF EXP",
+        "Priority": 2,
+        "From_Station": "GKP",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "09:50",
+        "Scheduled_Departure": "10:00"
+    },
+    {
+        "Train_No": 19713,
+        "Train_Name": "JP KRNT EXP",
+        "Priority": 3,
+        "From_Station": "JP",
+        "To_Station": "KRNT",
+        "Scheduled_Arrival": "10:20",
+        "Scheduled_Departure": "10:30"
+    },
+    {
+        "Train_No": 6598,
+        "Train_Name": "YNRK YPR EXP SPL",
+        "Priority": 3,
+        "From_Station": "YNRK",
+        "To_Station": "YPR",
+        "Scheduled_Arrival": "10:30",
+        "Scheduled_Departure": "10:40"
+    },
+    {
+        "Train_No": 20482,
+        "Train_Name": "BGKT HUMSAFAR",
+        "Priority": 2,
+        "From_Station": "TPJ",
+        "To_Station": "JU",
+        "Scheduled_Arrival": "13:35",
+        "Scheduled_Departure": "13:45"
+    },
+    {
+        "Train_No": 22403,
+        "Train_Name": "PDY NDLS EXPRESS",
+        "Priority": 2,
+        "From_Station": "PDY",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "13:35",
+        "Scheduled_Departure": "13:45"
+    },
+    {
+        "Train_No": 12590,
+        "Train_Name": "GORAKHPUR EXP",
+        "Priority": 2,
+        "From_Station": "SC",
+        "To_Station": "GKP",
+        "Scheduled_Arrival": "13:45",
+        "Scheduled_Departure": "13:55"
+    },
+    {
+        "Train_No": 12720,
+        "Train_Name": "HYB JP SUP EXP",
+        "Priority": 2,
+        "From_Station": "HYB",
+        "To_Station": "JP",
+        "Scheduled_Arrival": "13:55",
+        "Scheduled_Departure": "14:05"
+    },
+    {
+        "Train_No": 7020,
+        "Train_Name": "HYB JP SPL",
+        "Priority": 4,
+        "From_Station": "HYB",
+        "To_Station": "JP",
+        "Scheduled_Arrival": "13:55",
+        "Scheduled_Departure": "14:05"
+    },
+    {
+        "Train_No": 17020,
+        "Train_Name": "HYB HSR EXPRESS",
+        "Priority": 3,
+        "From_Station": "HYB",
+        "To_Station": "HSR",
+        "Scheduled_Arrival": "13:55",
+        "Scheduled_Departure": "14:05"
+    },
+    {
+        "Train_No": 6597,
+        "Train_Name": "YPR YNRK SPL",
+        "Priority": 4,
+        "From_Station": "YPR",
+        "To_Station": "YNRK",
+        "Scheduled_Arrival": "14:00",
+        "Scheduled_Departure": "14:10"
+    },
+    {
+        "Train_No": 20104,
+        "Train_Name": "AMH LTT SF EXP",
+        "Priority": 2,
+        "From_Station": "AMH",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "14:35",
+        "Scheduled_Departure": "14:45"
+    },
+    {
+        "Train_No": 12642,
+        "Train_Name": "THIRUKKURAL EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "CAPE",
+        "Scheduled_Arrival": "15:55",
+        "Scheduled_Departure": "16:05"
+    },
+    {
+        "Train_No": 12708,
+        "Train_Name": "AP SMPRK KRANTI",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "TPTY",
+        "Scheduled_Arrival": "15:55",
+        "Scheduled_Departure": "16:05"
+    },
+    {
+        "Train_No": 12652,
+        "Train_Name": "T N SMPRK KRNTI",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "MDU",
+        "Scheduled_Arrival": "15:55",
+        "Scheduled_Departure": "16:05"
+    },
+    {
+        "Train_No": 22583,
+        "Train_Name": "JANSADHARAN EXP",
+        "Priority": 2,
+        "From_Station": "CPR",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "16:05",
+        "Scheduled_Departure": "16:15"
+    },
+    {
+        "Train_No": 12944,
+        "Train_Name": "UDHYOGKARMI EXP",
+        "Priority": 2,
+        "From_Station": "CNB",
+        "To_Station": "BL",
+        "Scheduled_Arrival": "16:05",
+        "Scheduled_Departure": "16:15"
+    },
+    {
+        "Train_No": 12174,
+        "Train_Name": "UDYOG NAGRI EXP",
+        "Priority": 2,
+        "From_Station": "MBDP",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "16:05",
+        "Scheduled_Departure": "16:15"
+    },
+    {
+        "Train_No": 12650,
+        "Train_Name": "KTK SMPRK K EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "YPR",
+        "Scheduled_Arrival": "16:55",
+        "Scheduled_Departure": "17:05"
+    },
+    {
+        "Train_No": 12144,
+        "Train_Name": "SLN LTT SF EXP",
+        "Priority": 2,
+        "From_Station": "SLN",
+        "To_Station": "LTT",
+        "Scheduled_Arrival": "17:15",
+        "Scheduled_Departure": "17:25"
+    },
+    {
+        "Train_No": 12919,
+        "Train_Name": "MALWA EXPRESS",
+        "Priority": 2,
+        "From_Station": "DADN",
+        "To_Station": "SVDK",
+        "Scheduled_Arrival": "17:20",
+        "Scheduled_Departure": "17:30"
+    },
+    {
+        "Train_No": 22175,
+        "Train_Name": "NGP JAIPUR SF EXP",
+        "Priority": 2,
+        "From_Station": "NGP",
+        "To_Station": "JP",
+        "Scheduled_Arrival": "17:30",
+        "Scheduled_Departure": "17:40"
+    },
+    {
+        "Train_No": 12808,
+        "Train_Name": "SAMTA EXPRESS",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "VSKP",
+        "Scheduled_Arrival": "17:35",
+        "Scheduled_Departure": "17:45"
+    },
+    {
+        "Train_No": 12969,
+        "Train_Name": "CBE JAIPUR EXP",
+        "Priority": 2,
+        "From_Station": "CBE",
+        "To_Station": "JP",
+        "Scheduled_Arrival": "17:50",
+        "Scheduled_Departure": "18:00"
+    },
+    {
+        "Train_No": 20813,
+        "Train_Name": "PURI JU EXPRESS",
+        "Priority": 2,
+        "From_Station": "PURI",
+        "To_Station": "JU",
+        "Scheduled_Arrival": "17:50",
+        "Scheduled_Departure": "18:00"
+    },
+    {
+        "Train_No": 12975,
+        "Train_Name": "JAIPUR EXPRESS",
+        "Priority": 2,
+        "From_Station": "MYS",
+        "To_Station": "JP",
+        "Scheduled_Arrival": "17:50",
+        "Scheduled_Departure": "18:00"
+    },
+    {
+        "Train_No": 19714,
+        "Train_Name": "KRNT JP EXP",
+        "Priority": 3,
+        "From_Station": "KRNT",
+        "To_Station": "JP",
+        "Scheduled_Arrival": "17:50",
+        "Scheduled_Departure": "18:00"
+    },
+    {
+        "Train_No": 12967,
+        "Train_Name": "JAIPUR EXP",
+        "Priority": 2,
+        "From_Station": "MAS",
+        "To_Station": "JP",
+        "Scheduled_Arrival": "17:50",
+        "Scheduled_Departure": "18:00"
+    },
+    {
+        "Train_No": 19343,
+        "Train_Name": "PANCHVALLEY EXP",
+        "Priority": 3,
+        "From_Station": "INDB",
+        "To_Station": "NIR",
+        "Scheduled_Arrival": "18:00",
+        "Scheduled_Departure": "18:10"
+    },
+    {
+        "Train_No": 20103,
+        "Train_Name": "LTT AMH SF EXP",
+        "Priority": 2,
+        "From_Station": "LTT",
+        "To_Station": "AMH",
+        "Scheduled_Arrival": "18:15",
+        "Scheduled_Departure": "18:25"
+    },
+    {
+        "Train_No": 12630,
+        "Train_Name": "YPR S KRNTI EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "YPR",
+        "Scheduled_Arrival": "18:20",
+        "Scheduled_Departure": "18:30"
+    },
+    {
+        "Train_No": 22686,
+        "Train_Name": "KARNTK S KRANTI",
+        "Priority": 2,
+        "From_Station": "CDG",
+        "To_Station": "YPR",
+        "Scheduled_Arrival": "18:20",
+        "Scheduled_Departure": "18:30"
+    },
+    {
+        "Train_No": 20917,
+        "Train_Name": "PURI HUMSAFAR EX",
+        "Priority": 2,
+        "From_Station": "INDB",
+        "To_Station": "PURI",
+        "Scheduled_Arrival": "18:30",
+        "Scheduled_Departure": "18:40"
+    },
+    {
+        "Train_No": 12779,
+        "Train_Name": "GOA EXPRESS",
+        "Priority": 2,
+        "From_Station": "VSG",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "19:10",
+        "Scheduled_Departure": "19:20"
+    },
+    {
+        "Train_No": 12405,
+        "Train_Name": "GONDWANA EXPRES",
+        "Priority": 2,
+        "From_Station": "BSL",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "19:25",
+        "Scheduled_Departure": "19:35"
+    },
+    {
+        "Train_No": 12409,
+        "Train_Name": "GONDWANA EXPRES",
+        "Priority": 2,
+        "From_Station": "RIG",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "19:25",
+        "Scheduled_Departure": "19:35"
+    },
+    {
+        "Train_No": 11464,
+        "Train_Name": "JBP SOMNATH EXP",
+        "Priority": 3,
+        "From_Station": "JBP",
+        "To_Station": "VRL",
+        "Scheduled_Arrival": "20:00",
+        "Scheduled_Departure": "20:10"
+    },
+    {
+        "Train_No": 12621,
+        "Train_Name": "TAMIL NADU EXP",
+        "Priority": 2,
+        "From_Station": "MAS",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "20:10",
+        "Scheduled_Departure": "20:20"
+    },
+    {
+        "Train_No": 12171,
+        "Train_Name": "LTT HW AC SUP",
+        "Priority": 2,
+        "From_Station": "LTT",
+        "To_Station": "HW",
+        "Scheduled_Arrival": "20:20",
+        "Scheduled_Departure": "20:30"
+    },
+    {
+        "Train_No": 20805,
+        "Train_Name": "VSKP NDLS AP EXP",
+        "Priority": 2,
+        "From_Station": "VSKP",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "20:20",
+        "Scheduled_Departure": "20:30"
+    },
+    {
+        "Train_No": 22455,
+        "Train_Name": "SNSI KLK SUP EXP",
+        "Priority": 2,
+        "From_Station": "SNSI",
+        "To_Station": "KLK",
+        "Scheduled_Arrival": "20:20",
+        "Scheduled_Departure": "20:30"
+    },
+    {
+        "Train_No": 7053,
+        "Train_Name": "KCG BKN SPL",
+        "Priority": 4,
+        "From_Station": "KCG",
+        "To_Station": "BKN",
+        "Scheduled_Arrival": "20:30",
+        "Scheduled_Departure": "20:40"
+    },
+    {
+        "Train_No": 7053,
+        "Train_Name": "KCG BKN SPL",
+        "Priority": 4,
+        "From_Station": "SBC",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "20:50",
+        "Scheduled_Departure": "21:00"
+    },
+    {
+        "Train_No": 22645,
+        "Train_Name": "AHILYANAGARI EX",
+        "Priority": 2,
+        "From_Station": "INDB",
+        "To_Station": "TVCN",
+        "Scheduled_Arrival": "21:05",
+        "Scheduled_Departure": "21:15"
+    },
+    {
+        "Train_No": 22126,
+        "Train_Name": "ASR NGP AC EXP",
+        "Priority": 2,
+        "From_Station": "ASR",
+        "To_Station": "NGP",
+        "Scheduled_Arrival": "21:10",
+        "Scheduled_Departure": "21:20"
+    },
+    {
+        "Train_No": 12534,
+        "Train_Name": "PUSHPAK EXPRESS",
+        "Priority": 2,
+        "From_Station": "CSMT",
+        "To_Station": "LJN",
+        "Scheduled_Arrival": "21:15",
+        "Scheduled_Departure": "21:25"
+    },
+    {
+        "Train_No": 22674,
+        "Train_Name": "MQ BGKT EXP",
+        "Priority": 2,
+        "From_Station": "MQ",
+        "To_Station": "JU",
+        "Scheduled_Arrival": "21:30",
+        "Scheduled_Departure": "21:40"
+    },
+    {
+        "Train_No": 22631,
+        "Train_Name": "ANUVRAT EXPRESS",
+        "Priority": 2,
+        "From_Station": "MDU",
+        "To_Station": "BKN",
+        "Scheduled_Arrival": "21:30",
+        "Scheduled_Departure": "21:40"
+    },
+    {
+        "Train_No": 14313,
+        "Train_Name": "BAREILLY EXP",
+        "Priority": 3,
+        "From_Station": "LTT",
+        "To_Station": "BE",
+        "Scheduled_Arrival": "21:30",
+        "Scheduled_Departure": "21:40"
+    },
+    {
+        "Train_No": 12723,
+        "Train_Name": "TELANGANA  EXP",
+        "Priority": 2,
+        "From_Station": "HYB",
+        "To_Station": "NDLS",
+        "Scheduled_Arrival": "21:45",
+        "Scheduled_Departure": "21:55"
+    },
+    {
+        "Train_No": 18233,
+        "Train_Name": "NARMADA EXPRESS",
+        "Priority": 3,
+        "From_Station": "INDB",
+        "To_Station": "BSP",
+        "Scheduled_Arrival": "21:55",
+        "Scheduled_Departure": "22:05"
+    },
+    {
+        "Train_No": 2134,
+        "Train_Name": "BDTS FESTIVL SPL",
+        "Priority": 4,
+        "From_Station": "JBP",
+        "To_Station": "BDTS",
+        "Scheduled_Arrival": "22:25",
+        "Scheduled_Departure": "22:35"
+    },
+    {
+        "Train_No": 11086,
+        "Train_Name": "GWL SMVB EXPRESS",
+        "Priority": 3,
+        "From_Station": "GWL",
+        "To_Station": "SMVB",
+        "Scheduled_Arrival": "23:05",
+        "Scheduled_Departure": "23:15"
+    },
+    {
+        "Train_No": 12649,
+        "Train_Name": "SAMPARK KRANTI",
+        "Priority": 2,
+        "From_Station": "YPR",
+        "To_Station": "NZM",
+        "Scheduled_Arrival": "23:10",
+        "Scheduled_Departure": "23:20"
+    },
+    {
+        "Train_No": 22191,
+        "Train_Name": "INDB JBP EXP",
+        "Priority": 2,
+        "From_Station": "INDB",
+        "To_Station": "JBP",
+        "Scheduled_Arrival": "23:25",
+        "Scheduled_Departure": "23:35"
+    },
+    {
+        "Train_No": 22191,
+        "Train_Name": "INDB JBP EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "SC",
+        "Scheduled_Arrival": "23:30",
+        "Scheduled_Departure": "23:40"
+    },
+    {
+        "Train_No": 22191,
+        "Train_Name": "INDB JBP EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "MAS",
+        "Scheduled_Arrival": "23:30",
+        "Scheduled_Departure": "23:40"
+    },
+    {
+        "Train_No": 22191,
+        "Train_Name": "INDB JBP EXP",
+        "Priority": 2,
+        "From_Station": "NDLS",
+        "To_Station": "BSP",
+        "Scheduled_Arrival": "23:30",
+        "Scheduled_Departure": "23:40"
+    },
+    {
+        "Train_No": 22191,
+        "Train_Name": "INDB JBP EXP",
+        "Priority": 2,
+        "From_Station": "NZM",
+        "To_Station": "MAS",
+        "Scheduled_Arrival": "23:30",
+        "Scheduled_Departure": "23:40"
+    },
+    {
+        "Train_No": 22646,
+        "Train_Name": "AHILYANAGARI EX",
+        "Priority": 2,
+        "From_Station": "TVCN",
+        "To_Station": "INDB",
+        "Scheduled_Arrival": "23:35",
+        "Scheduled_Departure": "23:45"
+    },
+    {
+        "Train_No": 11465,
+        "Train_Name": "SMNH JBP EXPRES",
+        "Priority": 3,
+        "From_Station": "SMNH",
+        "To_Station": "JBP",
+        "Scheduled_Arrival": "06:45",
+        "Scheduled_Departure": "07:00"
+    },
+    {
+        "Train_No": 7054,
+        "Train_Name": "BKN KCG SPL",
+        "Priority": 4,
+        "From_Station": "BKN",
+        "To_Station": "KCG",
+        "Scheduled_Arrival": "08:55",
+        "Scheduled_Departure": "09:10"
+    },
+    {
+        "Train_No": 11466,
+        "Train_Name": "JBP SOMNATH EXP",
+        "Priority": 3,
+        "From_Station": "JBP",
+        "To_Station": "VRL",
+        "Scheduled_Arrival": "19:55",
+        "Scheduled_Departure": "20:10"
+    },
+    {
+        "Train_No": 12920,
+        "Train_Name": "MALWA EXPRESS",
+        "Priority": 2,
+        "From_Station": "SVDK",
+        "To_Station": "DADN",
+        "Scheduled_Arrival": "07:25",
+        "Scheduled_Departure": "07:45"
+    }
+]
